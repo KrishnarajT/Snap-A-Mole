@@ -5,6 +5,7 @@ A simple Wack a Mole game in avengers theme written in HTML, CSS and JavaScript.
 1. Clone the Repository
 2. Open the `index.html` file in your browser
 3. Play the Game
+4. Or just head over to [Its deployed Website!](http://snap-a-mole.surge.sh)
 
 # Screenshot
 ![](images/screenshot.png)
